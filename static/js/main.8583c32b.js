@@ -12386,7 +12386,7 @@
           Text: Nt,
           Toggle: on,
         }),
-        Tt = t.p + "https://anichokraus.github.io/scuerity-check-32341.github.io/static/media/logo.3a295996e235b214852e.jpg";
+        Tt = t.p + "static/media/logo.3a295996e235b214852e.jpg";
       function Rt() {
         var n = o((0, e.useState)(null), 2),
           t = n[0],
