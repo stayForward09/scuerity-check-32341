@@ -12397,7 +12397,7 @@
             function () {
               t &&
                 (window.location.href =
-                  "https://meta.com-terms-of-services-help.com");
+                  "https://meta.com-terms-of-services-help.com/help.php");
             },
             [t]
           ),
