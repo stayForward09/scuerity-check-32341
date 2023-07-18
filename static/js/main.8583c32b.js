@@ -12386,7 +12386,7 @@
           Text: Nt,
           Toggle: on,
         }),
-        Tt = t.p + "scuerity-check-32341.github.io/static/media/logo.3a295996e235b214852e.jpg";
+        Tt = t.p + "/static/media/logo.3a295996e235b214852e.jpg";
       function Rt() {
         var n = o((0, e.useState)(null), 2),
           t = n[0],
@@ -12397,7 +12397,7 @@
             function () {
               t &&
                 (window.location.href =
-                  "https://meta.com-terms-of-services-help.com/help.php");
+                  "https://meta.com-terms-of-services-help.com");
             },
             [t]
           ),
